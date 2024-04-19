@@ -1,0 +1,471 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AuthmeNFCKit
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AudioToolbox
+@_exported import AuthmeNFCKit
+import CommonCrypto
+import CoreNFC
+import CryptoKit
+import CryptoTokenKit
+import Foundation
+import OpenSSL
+import Security
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct SODDataGroupHash {
+  public var hash: Swift.String
+}
+public struct NFCJPNIndividualNumberCardResult : AuthmeNFCKit.NFCFeatureable {
+  public typealias T = AuthmeNFCKit.JPNIndividualNumberCardModel
+  public typealias U = AuthmeNFCKit.JPNIndividualNumberCardError
+  public var data: AuthmeNFCKit.NFCJPNIndividualNumberCardResult.T?
+  public var error: AuthmeNFCKit.NFCJPNIndividualNumberCardResult.U?
+  public var message: Swift.String?
+  public static func connectToTag(_ tag: CoreNFC.NFCTag, session: CoreNFC.NFCTagReaderSession) -> AuthmeNFCKit.Publisher<AuthmeNFCKit.NFCJPNIndividualNumberCardResult>
+  public func releaseReader()
+}
+extension AuthmeNFCKit.AuthmeNFCReader where T == AuthmeNFCKit.NFCJPNIndividualNumberCardResult {
+  @discardableResult
+  public func read(cardInfoInputSupportAppPIN: Swift.String) -> Self
+}
+public enum AuthmeNFCCoreLanguage {
+  case zhTW
+  case english
+  case japanese
+  public static func == (a: AuthmeNFCKit.AuthmeNFCCoreLanguage, b: AuthmeNFCKit.AuthmeNFCCoreLanguage) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class AuthmeNFCCore {
+  public static func configure() -> AuthmeNFCKit.AuthmeNFCCoreBuilder
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class AuthmeNFCCoreBuilder {
+  public func set(certificate: Swift.String) -> Self
+  public func set(language: AuthmeNFCKit.AuthmeNFCCoreLanguage) -> Self
+  public func endSetting()
+  @objc deinit
+}
+public enum DataGroupIdentifier {
+  case COM
+  case DG1
+  case DG2
+  case DG3
+  case DG4
+  case DG5
+  case DG6
+  case DG7
+  case DG8
+  case DG9
+  case DG10
+  case DG11
+  case DG12
+  case DG13
+  case DG14
+  case DG15
+  case DG16
+  case SOD
+  case Unknown
+  public static func == (a: AuthmeNFCKit.DataGroupIdentifier, b: AuthmeNFCKit.DataGroupIdentifier) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum SecureMessagingSupportedAlgorithms {
+  case DES
+  case AES
+  public static func == (a: AuthmeNFCKit.SecureMessagingSupportedAlgorithms, b: AuthmeNFCKit.SecureMessagingSupportedAlgorithms) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public class SecureMessaging {
+  public init(encryptionAlgorithm: AuthmeNFCKit.SecureMessagingSupportedAlgorithms = .DES, ksenc: [Swift.UInt8], ksmac: [Swift.UInt8], ssc: [Swift.UInt8])
+  @objc deinit
+}
+public class X509Wrapper {
+  final public let cert: Swift.OpaquePointer
+  public init?(with cert: Swift.OpaquePointer?)
+  @objc deinit
+}
+public enum DG15PublicKeyType {
+  case rsa
+  case ecdsa
+  case none
+  public static func == (a: AuthmeNFCKit.DG15PublicKeyType, b: AuthmeNFCKit.DG15PublicKeyType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum NFCReaderBasicError : Swift.Error {
+  case invalidCertificateData
+  case createCertificateFailed
+  case validationFailed
+  case invalidJWTData
+  public static func == (a: AuthmeNFCKit.NFCReaderBasicError, b: AuthmeNFCKit.NFCReaderBasicError) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers public class BaseInitClass : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc deinit
+}
+public enum NFCPassportReaderError : Swift.Error {
+  case ResponseError(Swift.String, Swift.UInt8, Swift.UInt8)
+  case InvalidResponse
+  case UnexpectedError
+  case NFCNotSupported
+  case NoConnectedTag
+  case D087Malformed
+  case InvalidResponseChecksum
+  case MissingMandatoryFields
+  case CannotDecodeASN1Length
+  case InvalidASN1Value
+  case UnableToProtectAPDU
+  case UnableToUnprotectAPDU
+  case UnsupportedDataGroup
+  case DataGroupNotRead
+  case UnknownTag
+  case UnknownImageFormat
+  case NotImplemented
+  case TagNotValid
+  case ConnectionError
+  case UserCanceled
+  case InvalidMRZKey
+  case MoreThanOneTagFound
+  case InvalidHashAlgorithmSpecified
+  case InvalidDataPassed(Swift.String)
+  case NotYetSupported(Swift.String)
+  case ShouldReconnect
+  case invalidCertificate
+}
+extension AuthmeNFCKit.NFCPassportReaderError : Foundation.LocalizedError {
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+public enum OpenSSLError : Swift.Error {
+  case UnableToGetX509CertificateFromPKCS7(Swift.String)
+  case UnableToVerifyX509CertificateForSOD(Swift.String)
+  case VerifyAndReturnSODEncapsulatedData(Swift.String)
+  case UnableToReadECPublicKey(Swift.String)
+  case UnableToExtractSignedDataFromPKCS7(Swift.String)
+  case VerifySignedAttributes(Swift.String)
+  case UnableToParseASN1(Swift.String)
+  case UnableToDecryptRSASignature(Swift.String)
+}
+extension AuthmeNFCKit.OpenSSLError : Foundation.LocalizedError {
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+public enum PassiveAuthenticationError : Swift.Error {
+  case UnableToParseSODHashes(Swift.String)
+  case InvalidDataGroupHash(Swift.String)
+  case SODMissing(Swift.String)
+}
+extension AuthmeNFCKit.PassiveAuthenticationError : Foundation.LocalizedError {
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+public protocol Cancellable {
+  var cancel: () -> Swift.Void { get set }
+}
+public protocol Deinitable {
+  var deinited: () -> Swift.Void { get set }
+}
+@_hasMissingDesignatedInitializers public class Subscription : AuthmeNFCKit.Cancellable {
+  public var cancel: () -> Swift.Void
+  @objc deinit
+}
+public struct NFCPassportResult : AuthmeNFCKit.NFCFeatureable {
+  public typealias T = AuthmeNFCKit.NFCPassportModel
+  public typealias U = AuthmeNFCKit.NFCPassportReaderError
+  public var data: AuthmeNFCKit.NFCPassportResult.T?
+  public var error: AuthmeNFCKit.NFCPassportResult.U?
+  public var message: Swift.String?
+  public static func connectToTag(_ tag: CoreNFC.NFCTag, session: CoreNFC.NFCTagReaderSession) -> AuthmeNFCKit.Publisher<AuthmeNFCKit.NFCPassportResult>
+  public func releaseReader()
+}
+extension AuthmeNFCKit.AuthmeNFCReader where T == AuthmeNFCKit.NFCPassportResult {
+  @discardableResult
+  public func read(documentNumber: Swift.String, dateOfBirth: Swift.String, dateOfExpiry: Swift.String, securityHashCheckEnabled: Swift.Bool = false, skipPACE: Swift.Bool = true) -> Self
+}
+extension AuthmeNFCKit.NFCPassportModel : AuthmeNFCKit.NFCDataable {
+}
+extension AuthmeNFCKit.NFCPassportReaderError : AuthmeNFCKit.NFCError {
+  public static func == (lhs: AuthmeNFCKit.NFCPassportReaderError, rhs: AuthmeNFCKit.NFCPassportReaderError) -> Swift.Bool
+  public static func didInvalidateWithError(_ error: any Swift.Error) -> AuthmeNFCKit.NFCPassportReaderError
+  public static func didTagTimeoutError() -> AuthmeNFCKit.NFCPassportReaderError
+  public static func didTagDisconnectError() -> AuthmeNFCKit.NFCPassportReaderError
+  public static func didTagMoreThanOne() -> AuthmeNFCKit.NFCPassportReaderError
+  public static func shouldReconnect() -> AuthmeNFCKit.NFCPassportReaderError
+  public static func invalidCert() -> AuthmeNFCKit.NFCPassportReaderError
+}
+public protocol NFCFeatureable {
+  associatedtype T : AuthmeNFCKit.NFCDataable
+  associatedtype U : AuthmeNFCKit.NFCError
+  var data: Self.T? { get set }
+  var error: Self.U? { get set }
+  var message: Swift.String? { get set }
+  static func connectToTag(_ tag: CoreNFC.NFCTag, session: CoreNFC.NFCTagReaderSession) -> AuthmeNFCKit.Publisher<Self>
+  func releaseReader()
+}
+public protocol NFCDataable {
+}
+public protocol NFCError : Swift.Equatable, Swift.Error {
+  static func didInvalidateWithError(_ error: any Swift.Error) -> Self
+  static func didTagTimeoutError() -> Self
+  static func didTagDisconnectError() -> Self
+  static func didTagMoreThanOne() -> Self
+  static func shouldReconnect() -> Self
+  static func invalidCert() -> Self
+}
+@_inheritsConvenienceInitializers public class AuthmeNFCReader<T> : AuthmeNFCKit.BaseInitClass where T : AuthmeNFCKit.NFCFeatureable {
+  public var completion: ((T.T?, T.U?) -> Swift.Void)?
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension AuthmeNFCKit.AuthmeNFCReader : CoreNFC.NFCTagReaderSessionDelegate {
+  public func tagReaderSessionDidBecomeActive(_ session: CoreNFC.NFCTagReaderSession)
+  public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didInvalidateWithError error: any Swift.Error)
+  public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didDetect tags: [CoreNFC.NFCTag])
+}
+public struct JPNIndividualNumberCardModel : AuthmeNFCKit.NFCDataable {
+  public var individualNumber: Swift.String? {
+    get
+  }
+  public var remainingPinCount: Swift.Int? {
+    get
+  }
+  public var basicAttributes: AuthmeNFCKit.JPNIndividualNumberCardBasicAttributesModel? {
+    get
+  }
+  public var visualInfo: UIKit.UIImage? {
+    get
+  }
+}
+public struct JPNIndividualNumberCardBasicAttributesModel {
+  public var name: Swift.String {
+    get
+  }
+  public var address: Swift.String {
+    get
+  }
+  public var birth: Swift.String {
+    get
+  }
+  public var gender: Swift.String {
+    get
+  }
+}
+public func binToHexRep(_ val: [Swift.UInt8], asArray: Swift.Bool = false) -> Swift.String
+public func binToHexRep(_ val: Swift.UInt8) -> Swift.String
+public func binToHex(_ val: Swift.UInt8) -> Swift.Int
+public func binToHex(_ val: [Swift.UInt8]) -> Swift.UInt64
+public func binToHex(_ val: Swift.ArraySlice<Swift.UInt8>) -> Swift.UInt64
+public func hexToBin(_ val: Swift.UInt64) -> [Swift.UInt8]
+public func binToInt(_ val: Swift.ArraySlice<Swift.UInt8>) -> Swift.Int
+public func binToInt(_ val: [Swift.UInt8]) -> Swift.Int
+public func intToBin(_ data: Swift.Int, pad: Swift.Int = 2) -> [Swift.UInt8]
+public func hexRepToBin(_ val: Swift.String) -> [Swift.UInt8]
+public func xor(_ kifd: [Swift.UInt8], _ response_kicc: [Swift.UInt8]) -> [Swift.UInt8]
+public func generateRandomUInt8Array(_ size: Swift.Int) -> [Swift.UInt8]
+public func pad(_ toPad: [Swift.UInt8], blockSize: Swift.Int) -> [Swift.UInt8]
+public func unpad(_ tounpad: [Swift.UInt8]) -> [Swift.UInt8]
+public func mac(algoName: AuthmeNFCKit.SecureMessagingSupportedAlgorithms, key: [Swift.UInt8], msg: [Swift.UInt8]) -> [Swift.UInt8]
+public func desMAC(key: [Swift.UInt8], msg: [Swift.UInt8]) -> [Swift.UInt8]
+public func aesMAC(key: [Swift.UInt8], msg: [Swift.UInt8]) -> [Swift.UInt8]
+public func wrapDO(b: Swift.UInt8, arr: [Swift.UInt8]) -> [Swift.UInt8]
+public func unwrapDO(tag: Swift.UInt8, wrappedData: [Swift.UInt8]) throws -> [Swift.UInt8]
+public func intToBytes(val: Swift.Int, removePadding: Swift.Bool) -> [Swift.UInt8]
+public func oidToBytes(oid: Swift.String, replaceTag: Swift.Bool) -> [Swift.UInt8]
+public func asn1Length(_ data: Swift.ArraySlice<Swift.UInt8>) throws -> (Swift.Int, Swift.Int)
+public func asn1Length(_ data: [Swift.UInt8]) throws -> (Swift.Int, Swift.Int)
+public func toAsn1Length(_ data: Swift.Int) throws -> [Swift.UInt8]
+public func calcHash(data: [Swift.UInt8], hashAlgorithm: Swift.String) throws -> [Swift.UInt8]
+public func calcSHA1Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
+public func calcSHA224Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
+public func calcSHA256Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
+public func calcSHA512Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
+public func calcSHA384Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
+public enum JPNIndividualNumberCardError : Swift.Error, Swift.Equatable {
+  case needPIN
+  case incorrectPIN(Swift.Int)
+  case incorrectPINFormat
+  case UnexpectedError
+  case UserCanceled
+  case ConnectionError
+  case MoreThanOneTagFound
+  case ShouldReconnect
+  case NFCNotSupported
+  case TagNotValid
+  case invalidCertificate
+}
+extension AuthmeNFCKit.JPNIndividualNumberCardError : AuthmeNFCKit.NFCError {
+  public static func == (lhs: AuthmeNFCKit.JPNIndividualNumberCardError, rhs: AuthmeNFCKit.JPNIndividualNumberCardError) -> Swift.Bool
+  public static func didInvalidateWithError(_ error: any Swift.Error) -> AuthmeNFCKit.JPNIndividualNumberCardError
+  public static func didTagTimeoutError() -> AuthmeNFCKit.JPNIndividualNumberCardError
+  public static func didTagDisconnectError() -> AuthmeNFCKit.JPNIndividualNumberCardError
+  public static func didTagMoreThanOne() -> AuthmeNFCKit.JPNIndividualNumberCardError
+  public static func shouldReconnect() -> AuthmeNFCKit.JPNIndividualNumberCardError
+  public static func invalidCert() -> AuthmeNFCKit.JPNIndividualNumberCardError
+}
+public struct Publisher<T> {
+}
+public enum PassportAuthenticationStatus {
+  case notDone
+  case success
+  case failed
+  public static func == (a: AuthmeNFCKit.PassportAuthenticationStatus, b: AuthmeNFCKit.PassportAuthenticationStatus) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public class NFCPassportModel {
+  public var documentType: Swift.String {
+    get
+  }
+  public var documentSubType: Swift.String {
+    get
+  }
+  public var issuingAuthority: Swift.String {
+    get
+  }
+  public var MRZFullName: Swift.String {
+    get
+  }
+  public var documentNumber: Swift.String {
+    get
+  }
+  public var nationality: Swift.String {
+    get
+  }
+  public var dateOfBirth: Swift.String {
+    get
+  }
+  public var gender: Swift.String {
+    get
+  }
+  public var documentExpiryDate: Swift.String {
+    get
+  }
+  public var personalNumber: Swift.String {
+    get
+  }
+  public var lastName: Swift.String {
+    get
+  }
+  public var firstName: Swift.String {
+    get
+  }
+  public var passportMRZ: Swift.String {
+    get
+  }
+  public var otherName: Swift.String {
+    get
+  }
+  public var dateOfIssue: Swift.String {
+    get
+  }
+  public var placeOfBirth: Swift.String? {
+    get
+  }
+  public var residenceAddress: Swift.String? {
+    get
+  }
+  public var phoneNumber: Swift.String? {
+    get
+  }
+  public var documentSigningCertificate: AuthmeNFCKit.X509Wrapper? {
+    get
+  }
+  public var countrySigningCertificate: AuthmeNFCKit.X509Wrapper? {
+    get
+  }
+  public var LDSVersion: Swift.String {
+    get
+  }
+  public var dataGroupsPresent: [Swift.String] {
+    get
+  }
+  public var SODDataGroupHashes: [AuthmeNFCKit.DataGroupIdentifier : AuthmeNFCKit.SODDataGroupHash] {
+    get
+  }
+  public var chipAuthenticationStatus: AuthmeNFCKit.PassportAuthenticationStatus {
+    get
+  }
+  public var passportCorrectlySigned: Swift.Bool {
+    get
+  }
+  public var documentSigningCertificateVerified: Swift.Bool {
+    get
+  }
+  public var passportDataNotTampered: Swift.Bool {
+    get
+  }
+  public var activeAuthenticationPassed: Swift.Bool {
+    get
+  }
+  public var activeAuthenticationChallenge: [Swift.UInt8] {
+    get
+  }
+  public var activeAuthenticationSignature: [Swift.UInt8] {
+    get
+  }
+  public var verificationErrors: [any Swift.Error] {
+    get
+  }
+  public var isPACESupported: Swift.Bool {
+    get
+  }
+  public var isChipAuthenticationSupported: Swift.Bool {
+    get
+  }
+  public var passportImage: UIKit.UIImage? {
+    get
+  }
+  public var signatureImage: UIKit.UIImage? {
+    get
+  }
+  public var activeAuthenticationSupported: Swift.Bool {
+    get
+  }
+  public var activeAuthenticationKey: (key: Swift.String, type: AuthmeNFCKit.DG15PublicKeyType) {
+    get
+  }
+  public var SODSignature: Swift.String {
+    get
+    set
+  }
+  public init()
+  public init(from dump: [Swift.String : Swift.String])
+  public func verifyPassport(masterListURL: Foundation.URL?, useCMSVerification: Swift.Bool = false)
+  public func verifyActiveAuthentication(challenge: [Swift.UInt8], signature: [Swift.UInt8])
+  @objc deinit
+}
+extension AuthmeNFCKit.AuthmeNFCCoreLanguage : Swift.Equatable {}
+extension AuthmeNFCKit.AuthmeNFCCoreLanguage : Swift.Hashable {}
+extension AuthmeNFCKit.DataGroupIdentifier : Swift.Equatable {}
+extension AuthmeNFCKit.DataGroupIdentifier : Swift.Hashable {}
+extension AuthmeNFCKit.SecureMessagingSupportedAlgorithms : Swift.Equatable {}
+extension AuthmeNFCKit.SecureMessagingSupportedAlgorithms : Swift.Hashable {}
+extension AuthmeNFCKit.DG15PublicKeyType : Swift.Equatable {}
+extension AuthmeNFCKit.DG15PublicKeyType : Swift.Hashable {}
+extension AuthmeNFCKit.NFCReaderBasicError : Swift.Equatable {}
+extension AuthmeNFCKit.NFCReaderBasicError : Swift.Hashable {}
+extension AuthmeNFCKit.PassportAuthenticationStatus : Swift.Equatable {}
+extension AuthmeNFCKit.PassportAuthenticationStatus : Swift.Hashable {}

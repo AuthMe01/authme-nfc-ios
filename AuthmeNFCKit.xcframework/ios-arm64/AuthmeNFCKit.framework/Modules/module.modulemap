@@ -1,0 +1,11 @@
+framework module AuthmeNFCKit {
+  umbrella header "AuthmeNFCKit.h"
+  export *
+
+  module * { export * }
+}
+
+module AuthmeNFCKit.Swift {
+  header "AuthmeNFCKit-Swift.h"
+  requires objc
+}
