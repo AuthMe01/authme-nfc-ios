@@ -342,7 +342,7 @@ public class NFCPassportModel {
   public var documentSubType: Swift.String {
     get
   }
-  public var issuingAuthority: Swift.String {
+  public var country: Swift.String {
     get
   }
   public var MRZFullName: Swift.String {
