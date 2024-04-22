@@ -10451,6 +10451,50 @@
           },
           {
             "kind": "Var",
+            "name": "checkDigitOfDocumentNumber",
+            "printedName": "checkDigitOfDocumentNumber",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AuthmeNFCKit16NFCPassportModelC26checkDigitOfDocumentNumberSSvp",
+            "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC26checkDigitOfDocumentNumberSSvp",
+            "moduleName": "AuthmeNFCKit",
+            "declAttributes": [
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AuthmeNFCKit16NFCPassportModelC26checkDigitOfDocumentNumberSSvg",
+                "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC26checkDigitOfDocumentNumberSSvg",
+                "moduleName": "AuthmeNFCKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "nationality",
             "printedName": "nationality",
             "children": [
@@ -10531,6 +10575,50 @@
                 "declKind": "Accessor",
                 "usr": "s:12AuthmeNFCKit16NFCPassportModelC11dateOfBirthSSvg",
                 "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC11dateOfBirthSSvg",
+                "moduleName": "AuthmeNFCKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "checkDigitOfDateOfBirth",
+            "printedName": "checkDigitOfDateOfBirth",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AuthmeNFCKit16NFCPassportModelC016checkDigitOfDateG5BirthSSvp",
+            "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC016checkDigitOfDateG5BirthSSvp",
+            "moduleName": "AuthmeNFCKit",
+            "declAttributes": [
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AuthmeNFCKit16NFCPassportModelC016checkDigitOfDateG5BirthSSvg",
+                "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC016checkDigitOfDateG5BirthSSvg",
                 "moduleName": "AuthmeNFCKit",
                 "implicit": true,
                 "accessorKind": "get"
@@ -10627,6 +10715,50 @@
           },
           {
             "kind": "Var",
+            "name": "checkDigitOfDocumentExpiryDate",
+            "printedName": "checkDigitOfDocumentExpiryDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AuthmeNFCKit16NFCPassportModelC30checkDigitOfDocumentExpiryDateSSvp",
+            "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC30checkDigitOfDocumentExpiryDateSSvp",
+            "moduleName": "AuthmeNFCKit",
+            "declAttributes": [
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AuthmeNFCKit16NFCPassportModelC30checkDigitOfDocumentExpiryDateSSvg",
+                "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC30checkDigitOfDocumentExpiryDateSSvg",
+                "moduleName": "AuthmeNFCKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "personalNumber",
             "printedName": "personalNumber",
             "children": [
@@ -10663,6 +10795,94 @@
                 "declKind": "Accessor",
                 "usr": "s:12AuthmeNFCKit16NFCPassportModelC14personalNumberSSvg",
                 "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC14personalNumberSSvg",
+                "moduleName": "AuthmeNFCKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "checkDigitOfPersonalNumber",
+            "printedName": "checkDigitOfPersonalNumber",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AuthmeNFCKit16NFCPassportModelC26checkDigitOfPersonalNumberSSvp",
+            "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC26checkDigitOfPersonalNumberSSvp",
+            "moduleName": "AuthmeNFCKit",
+            "declAttributes": [
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AuthmeNFCKit16NFCPassportModelC26checkDigitOfPersonalNumberSSvg",
+                "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC26checkDigitOfPersonalNumberSSvg",
+                "moduleName": "AuthmeNFCKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "compositeCheckDigit",
+            "printedName": "compositeCheckDigit",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AuthmeNFCKit16NFCPassportModelC19compositeCheckDigitSSvp",
+            "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC19compositeCheckDigitSSvp",
+            "moduleName": "AuthmeNFCKit",
+            "declAttributes": [
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AuthmeNFCKit16NFCPassportModelC19compositeCheckDigitSSvg",
+                "mangledName": "$s12AuthmeNFCKit16NFCPassportModelC19compositeCheckDigitSSvg",
                 "moduleName": "AuthmeNFCKit",
                 "implicit": true,
                 "accessorKind": "get"
@@ -17118,62 +17338,62 @@
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 797,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 830,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
-      "kind": "StringLiteral",
-      "offset": 1044,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1217,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1456,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2742,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2919,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3154,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 3263,
+      "offset": 857,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
+      "kind": "StringLiteral",
+      "offset": 1071,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1244,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1483,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2769,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2946,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3181,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3290,
       "length": 5,
       "value": "false"
     },
@@ -17187,231 +17407,231 @@
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 5811,
+      "offset": 5838,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 7466,
+      "offset": 7493,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 8593,
+      "offset": 8620,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 8852,
+      "offset": 8879,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 9302,
+      "offset": 9329,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 11082,
+      "offset": 11109,
       "length": 13,
       "value": "\"PACE Failed\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 11585,
+      "offset": 11612,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 11700,
+      "offset": 11727,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 11780,
+      "offset": 11807,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 11863,
+      "offset": 11890,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 12097,
+      "offset": 12124,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 12205,
+      "offset": 12232,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 12975,
+      "offset": 13002,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 13946,
+      "offset": 13973,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 14094,
+      "offset": 14121,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 14598,
+      "offset": 14625,
       "length": 33,
       "value": "\"TagError reading tag - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 14630,
+      "offset": 14657,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 14722,
+      "offset": 14749,
       "length": 33,
       "value": "\"TagError reading tag - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 14754,
+      "offset": 14781,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 14923,
+      "offset": 14950,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 15299,
+      "offset": 15326,
       "length": 16,
       "value": "\"Unknown  error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 15396,
+      "offset": 15423,
       "length": 21,
       "value": "\"Session invalidated\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 15431,
+      "offset": 15458,
       "length": 21,
       "value": "\"Class not supported\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 15466,
+      "offset": 15493,
       "length": 21,
       "value": "\"Tag connection lost\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 15979,
+      "offset": 16006,
       "length": 31,
       "value": "\"Security status not satisfied\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 16024,
+      "offset": 16051,
       "length": 16,
       "value": "\"File not found\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 16291,
+      "offset": 16318,
       "length": 27,
       "value": "\"SM data objects incorrect\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 16332,
+      "offset": 16359,
       "length": 21,
       "value": "\"Class not supported\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 16554,
+      "offset": 16581,
       "length": 14,
       "value": "\"Wrong length\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "StringLiteral",
-      "offset": 16592,
+      "offset": 16619,
       "length": 13,
       "value": "\"End of file\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 16948,
+      "offset": 16975,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 17063,
+      "offset": 17090,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Reader+Parser\/PassportReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 17778,
+      "offset": 17805,
       "length": 1,
       "value": "0"
     },
@@ -23396,756 +23616,756 @@
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 1114,
+      "offset": 954,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "BooleanLiteral",
-      "offset": 1259,
+      "offset": 1099,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1305,
+      "offset": 1145,
       "length": 3,
       "value": "\"[\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1311,
+      "offset": 1151,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1391,
+      "offset": 1231,
       "length": 10,
       "value": "\"0x%02x, \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1461,
+      "offset": 1301,
       "length": 6,
       "value": "\"%02x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1512,
+      "offset": 1352,
       "length": 3,
       "value": "\"]\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1518,
+      "offset": 1358,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1656,
+      "offset": 1496,
       "length": 6,
       "value": "\"%02x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 1779,
+      "offset": 1619,
       "length": 6,
       "value": "\"%02X\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 1822,
+      "offset": 1662,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 1928,
+      "offset": 1768,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 2131,
+      "offset": 1971,
       "length": 5,
       "value": "\"%lx\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2386,
+      "offset": 2226,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2457,
+      "offset": 2297,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2487,
+      "offset": 2327,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 2524,
+      "offset": 2364,
       "length": 6,
       "value": "\"%02x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 2616,
+      "offset": 2456,
       "length": 6,
       "value": "\"%04x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 2778,
+      "offset": 2618,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2793,
+      "offset": 2633,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2834,
+      "offset": 2674,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2897,
+      "offset": 2737,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2908,
+      "offset": 2748,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2975,
+      "offset": 2815,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2986,
+      "offset": 2826,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3016,
+      "offset": 2856,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3156,
+      "offset": 2996,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 3336,
+      "offset": 3176,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3352,
+      "offset": 3192,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3429,
+      "offset": 3269,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 3543,
+      "offset": 3383,
       "length": 6,
       "value": "[0x80]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3585,
+      "offset": 3425,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3608,
+      "offset": 3448,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3715,
+      "offset": 3555,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3741,
+      "offset": 3581,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3761,
+      "offset": 3601,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3795,
+      "offset": 3635,
       "length": 4,
       "value": "0x80"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3833,
+      "offset": 3673,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4230,
+      "offset": 4070,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 4253,
+      "offset": 4093,
       "length": 24,
       "value": "[0, 0, 0, 0, 0, 0, 0, 0]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4299,
+      "offset": 4139,
       "length": 10,
       "value": "\"Calc mac\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4324,
+      "offset": 4164,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4369,
+      "offset": 4209,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4377,
+      "offset": 4217,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4379,
+      "offset": 4219,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4403,
+      "offset": 4243,
       "length": 28,
       "value": "\"x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4409,
+      "offset": 4249,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4430,
+      "offset": 4270,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4473,
+      "offset": 4313,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4477,
+      "offset": 4317,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4523,
+      "offset": 4363,
       "length": 26,
       "value": "\"y\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4529,
+      "offset": 4369,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4548,
+      "offset": 4388,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4578,
+      "offset": 4418,
       "length": 22,
       "value": "\"y: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4599,
+      "offset": 4439,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4618,
+      "offset": 4458,
       "length": 44,
       "value": "\"bkey: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4651,
+      "offset": 4491,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4655,
+      "offset": 4495,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4661,
+      "offset": 4501,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4680,
+      "offset": 4520,
       "length": 43,
       "value": "\"akey: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4713,
+      "offset": 4553,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4717,
+      "offset": 4557,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4722,
+      "offset": 4562,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 4747,
+      "offset": 4587,
       "length": 24,
       "value": "[0, 0, 0, 0, 0, 0, 0, 0]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4812,
+      "offset": 4652,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4816,
+      "offset": 4656,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4893,
+      "offset": 4733,
       "length": 22,
       "value": "\"b: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 4914,
+      "offset": 4754,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4957,
+      "offset": 4797,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4961,
+      "offset": 4801,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 5037,
+      "offset": 4877,
       "length": 22,
       "value": "\"a: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 5058,
+      "offset": 4898,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 5746,
+      "offset": 5586,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 5765,
+      "offset": 5605,
       "length": 3,
       "value": "[0]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 5912,
+      "offset": 5752,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 5957,
+      "offset": 5797,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 6276,
+      "offset": 6116,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 6281,
+      "offset": 6121,
       "length": 4,
       "value": "0x80"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7774,
+      "offset": 7614,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7779,
+      "offset": 7619,
       "length": 4,
       "value": "0x80"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7820,
+      "offset": 7660,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7826,
+      "offset": 7666,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7847,
+      "offset": 7687,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7853,
+      "offset": 7693,
       "length": 4,
       "value": "0x81"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7894,
+      "offset": 7734,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7900,
+      "offset": 7740,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7921,
+      "offset": 7761,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7927,
+      "offset": 7767,
       "length": 4,
       "value": "0x82"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7974,
+      "offset": 7814,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 7978,
+      "offset": 7818,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8009,
+      "offset": 7849,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8416,
+      "offset": 8256,
       "length": 4,
       "value": "0x80"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 8465,
+      "offset": 8305,
       "length": 6,
       "value": "\"%02x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8501,
+      "offset": 8341,
       "length": 4,
       "value": "0x80"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8517,
+      "offset": 8357,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 8539,
+      "offset": 8379,
       "length": 6,
       "value": "[0x81]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 8575,
+      "offset": 8415,
       "length": 6,
       "value": "\"%02x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8611,
+      "offset": 8451,
       "length": 6,
       "value": "0x0100"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8629,
+      "offset": 8469,
       "length": 6,
       "value": "0xFFFF"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 8653,
+      "offset": 8493,
       "length": 6,
       "value": "[0x82]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 8689,
+      "offset": 8529,
       "length": 6,
       "value": "\"%04x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
-      "offset": 9203,
+      "offset": 9043,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 9286,
+      "offset": 9126,
       "length": 6,
       "value": "\"sha1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 9359,
+      "offset": 9199,
       "length": 8,
       "value": "\"sha224\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 9436,
+      "offset": 9276,
       "length": 8,
       "value": "\"sha256\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 9513,
+      "offset": 9353,
       "length": 8,
       "value": "\"sha384\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 9590,
+      "offset": 9430,
       "length": 8,
       "value": "\"sha512\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 10389,
+      "offset": 10229,
       "length": 1,
       "value": "0"
     },
@@ -27043,1148 +27263,1218 @@
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1350,
+      "offset": 1376,
+      "length": 6,
+      "value": "\"5F04\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1387,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1525,
       "length": 6,
       "value": "\"5F2C\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1361,
+      "offset": 1536,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1492,
+      "offset": 1667,
       "length": 6,
       "value": "\"5F57\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1503,
+      "offset": 1678,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1629,
+      "offset": 1832,
+      "length": 6,
+      "value": "\"5F05\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1843,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1970,
       "length": 6,
       "value": "\"5F35\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1640,
+      "offset": 1981,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1787,
+      "offset": 2129,
       "length": 4,
       "value": "\"59\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1796,
+      "offset": 2138,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1937,
+      "offset": 2308,
+      "length": 6,
+      "value": "\"5F06\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2319,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2461,
       "length": 4,
       "value": "\"53\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1946,
+      "offset": 2470,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1975,
+      "offset": 2499,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 1986,
+      "offset": 2510,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2674,
+      "length": 6,
+      "value": "\"5F02\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2685,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2841,
+      "length": 6,
+      "value": "\"5F07\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2852,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2074,
+      "offset": 2939,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2102,
+      "offset": 2967,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2113,
+      "offset": 2978,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2206,
+      "offset": 3071,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2226,
+      "offset": 3091,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2301,
+      "offset": 3166,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2312,
+      "offset": 3177,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2403,
+      "offset": 3268,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2596,
+      "offset": 3461,
       "length": 6,
       "value": "\"5F1F\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2607,
+      "offset": 3472,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2840,
+      "offset": 3705,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2882,
+      "offset": 3747,
       "length": 4,
       "value": "\"5B\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2891,
+      "offset": 3756,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 2919,
+      "offset": 3784,
       "length": 4,
       "value": "\"<<\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 3139,
+      "offset": 4004,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 3363,
+      "offset": 4228,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 4596,
+      "offset": 5461,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
-      "offset": 4785,
+      "offset": 5650,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Dictionary",
-      "offset": 5012,
+      "offset": 5877,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5563,
+      "offset": 6428,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5640,
+      "offset": 6505,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5706,
+      "offset": 6571,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5775,
+      "offset": 6640,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
-      "offset": 5850,
+      "offset": 6715,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
-      "offset": 5922,
+      "offset": 6787,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
-      "offset": 5983,
+      "offset": 6848,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6090,
+      "offset": 6955,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6328,
+      "offset": 7193,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6355,
+      "offset": 7220,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6393,
+      "offset": 7258,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6633,
+      "offset": 7498,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6669,
+      "offset": 7534,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6710,
+      "offset": 7575,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7217,
+      "offset": 8082,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7312,
+      "offset": 8177,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7342,
+      "offset": 8207,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 7556,
+      "offset": 8421,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 7859,
+      "offset": 8724,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Dictionary",
-      "offset": 7958,
+      "offset": 8823,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 8257,
+      "offset": 9122,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 8422,
+      "offset": 9287,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 8756,
+      "offset": 9621,
       "length": 13,
       "value": "\"AASignature\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 8843,
+      "offset": 9708,
       "length": 13,
       "value": "\"AAChallenge\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 9220,
+      "offset": 10085,
       "length": 58,
       "value": "\"Failed to import Datagroup - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 9256,
+      "offset": 10121,
       "length": 4,
       "value": "\" from dump - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 9277,
+      "offset": 10142,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 10382,
+      "offset": 11247,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 10812,
+      "offset": 11677,
       "length": 13,
       "value": "\"AAChallenge\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 10903,
+      "offset": 11768,
       "length": 13,
       "value": "\"AASignature\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 11235,
+      "offset": 12100,
       "length": 6,
       "value": "\"SHA1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 11335,
+      "offset": 12200,
       "length": 8,
       "value": "\"SHA224\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 11439,
+      "offset": 12304,
       "length": 8,
       "value": "\"SHA256\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 11543,
+      "offset": 12408,
       "length": 8,
       "value": "\"SHA384\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 11647,
+      "offset": 12512,
       "length": 8,
       "value": "\"SHA512\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 12911,
+      "offset": 13776,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 13611,
+      "offset": 14476,
       "length": 23,
       "value": "\"Active Authentication\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 13656,
+      "offset": 14521,
       "length": 42,
       "value": "\"   challange - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 13697,
+      "offset": 14562,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 13720,
+      "offset": 14585,
       "length": 42,
       "value": "\"   signature - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 13761,
+      "offset": 14626,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13836,
+      "offset": 14701,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 14816,
+      "offset": 15681,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 14856,
+      "offset": 15721,
       "length": 4,
       "value": "0xCC"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 14924,
+      "offset": 15789,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 14986,
+      "offset": 15851,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15022,
+      "offset": 15887,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15084,
+      "offset": 15949,
       "length": 4,
       "value": "0xBC"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15090,
+      "offset": 15955,
       "length": 4,
       "value": "0x33"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 15127,
+      "offset": 15992,
       "length": 6,
       "value": "\"SHA1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15167,
+      "offset": 16032,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15226,
+      "offset": 16091,
       "length": 4,
       "value": "0x34"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 15263,
+      "offset": 16128,
       "length": 8,
       "value": "\"SHA256\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15305,
+      "offset": 16170,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15366,
+      "offset": 16231,
       "length": 4,
       "value": "0x35"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 15403,
+      "offset": 16268,
       "length": 8,
       "value": "\"SHA512\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15445,
+      "offset": 16310,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15506,
+      "offset": 16371,
       "length": 4,
       "value": "0x36"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 15543,
+      "offset": 16408,
       "length": 8,
       "value": "\"SHA384\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15585,
+      "offset": 16450,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15646,
+      "offset": 16511,
       "length": 4,
       "value": "0x38"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 15683,
+      "offset": 16548,
       "length": 8,
       "value": "\"SHA224\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15725,
+      "offset": 16590,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 15820,
+      "offset": 16685,
       "length": 75,
       "value": "\"Error identifying Active Authentication RSA message digest hash algorithm\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 16010,
+      "offset": 16875,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16558,
+      "offset": 17423,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 16594,
+      "offset": 17459,
       "length": 40,
       "value": "\"Active Authentication (RSA) successful\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 16693,
+      "offset": 17558,
       "length": 74,
       "value": "\"Error verifying Active Authentication RSA signature - Hash doesn't match\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 16837,
+      "offset": 17702,
       "length": 64,
       "value": "\"Error verifying Active Authentication RSA signature - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 16900,
+      "offset": 17765,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 17008,
+      "offset": 17873,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 17243,
+      "offset": 18108,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17464,
+      "offset": 18329,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 17496,
+      "offset": 18361,
       "length": 42,
       "value": "\"Active Authentication (ECDSA) successful\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 17589,
+      "offset": 18454,
       "length": 55,
       "value": "\"Error verifying Active Authentication ECDSA signature\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18049,
+      "offset": 18914,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18278,
+      "offset": 19143,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18529,
+      "offset": 19394,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 18650,
+      "offset": 19515,
       "length": 14,
       "value": "\"No SOD found\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 19209,
+      "offset": 20074,
       "length": 34,
       "value": "\"Passport passed SOD Verification\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19284,
+      "offset": 20149,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 19497,
+      "offset": 20362,
       "length": 14,
       "value": "\"No SOD found\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19698,
+      "offset": 20563,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20027,
+      "offset": 20892,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20313,
+      "offset": 21178,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 20508,
+      "offset": 21373,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 20759,
+      "offset": 21624,
       "length": 31,
       "value": "\"DataGroup \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 20775,
+      "offset": 21640,
       "length": 2,
       "value": "\" is missing!\n\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20974,
+      "offset": 21839,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21052,
+      "offset": 21917,
       "length": 86,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21058,
+      "offset": 21923,
       "length": 7,
       "value": "\" invalid hash:\n  SOD hash:\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21098,
+      "offset": 21963,
       "length": 1,
       "value": "\"\n   Computed hash:\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21135,
+      "offset": 22000,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21163,
+      "offset": 22028,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21453,
+      "offset": 22318,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21481,
+      "offset": 22346,
       "length": 25,
       "value": "\"HASH ERRORS - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21505,
+      "offset": 22370,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 21620,
+      "offset": 22485,
       "length": 43,
       "value": "\"Passport passed Datagroup Tampering check\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21699,
+      "offset": 22564,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22178,
+      "offset": 23043,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22207,
+      "offset": 23072,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Dictionary",
-      "offset": 22257,
+      "offset": 23122,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22322,
+      "offset": 23187,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22547,
+      "offset": 23412,
       "length": 5,
       "value": "\"d=2\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22571,
+      "offset": 23436,
       "length": 8,
       "value": "\"OBJECT\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22616,
+      "offset": 23481,
       "length": 6,
       "value": "\"sha1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22660,
+      "offset": 23525,
       "length": 6,
       "value": "\"SHA1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22707,
+      "offset": 23572,
       "length": 8,
       "value": "\"sha224\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22753,
+      "offset": 23618,
       "length": 8,
       "value": "\"SHA224\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22802,
+      "offset": 23667,
       "length": 8,
       "value": "\"sha256\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22848,
+      "offset": 23713,
       "length": 8,
       "value": "\"SHA256\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22897,
+      "offset": 23762,
       "length": 8,
       "value": "\"sha384\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22943,
+      "offset": 23808,
       "length": 8,
       "value": "\"SHA384\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 22992,
+      "offset": 23857,
       "length": 8,
       "value": "\"sha512\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23038,
+      "offset": 23903,
       "length": 8,
       "value": "\"SHA512\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23101,
+      "offset": 23966,
       "length": 5,
       "value": "\"d=3\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23125,
+      "offset": 23990,
       "length": 9,
       "value": "\"INTEGER\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23184,
+      "offset": 24049,
       "length": 9,
       "value": "\"INTEGER\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23318,
+      "offset": 24183,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23485,
+      "offset": 24350,
       "length": 5,
       "value": "\"d=3\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23509,
+      "offset": 24374,
       "length": 14,
       "value": "\"OCTET STRING\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23573,
+      "offset": 24438,
       "length": 13,
       "value": "\"[HEX DUMP]:\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23695,
+      "offset": 24560,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 23730,
+      "offset": 24595,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23832,
+      "offset": 24697,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 23934,
+      "offset": 24799,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 24007,
+      "offset": 24872,
       "length": 36,
       "value": "\"Unable to find hash algorythm used\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 24085,
+      "offset": 24950,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 24157,
+      "offset": 25022,
       "length": 26,
       "value": "\"Unable to extract hashes\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 24214,
+      "offset": 25079,
       "length": 41,
       "value": "\"Parse SOD - Using Algo - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 24254,
+      "offset": 25119,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 24275,
+      "offset": 25140,
       "length": 35,
       "value": "\"      - Hashes     - \""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
-      "offset": 24309,
+      "offset": 25174,
       "length": 2,
       "value": "\"\""
     },

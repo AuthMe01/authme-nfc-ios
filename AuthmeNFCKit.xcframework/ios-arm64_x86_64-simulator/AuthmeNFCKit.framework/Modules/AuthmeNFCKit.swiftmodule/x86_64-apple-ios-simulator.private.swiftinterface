@@ -351,10 +351,16 @@ public class NFCPassportModel {
   public var documentNumber: Swift.String {
     get
   }
+  public var checkDigitOfDocumentNumber: Swift.String {
+    get
+  }
   public var nationality: Swift.String {
     get
   }
   public var dateOfBirth: Swift.String {
+    get
+  }
+  public var checkDigitOfDateOfBirth: Swift.String {
     get
   }
   public var gender: Swift.String {
@@ -363,7 +369,16 @@ public class NFCPassportModel {
   public var documentExpiryDate: Swift.String {
     get
   }
+  public var checkDigitOfDocumentExpiryDate: Swift.String {
+    get
+  }
   public var personalNumber: Swift.String {
+    get
+  }
+  public var checkDigitOfPersonalNumber: Swift.String {
+    get
+  }
+  public var compositeCheckDigit: Swift.String {
     get
   }
   public var lastName: Swift.String {
