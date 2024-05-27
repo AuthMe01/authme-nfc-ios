@@ -96,6 +96,9 @@ public class X509Wrapper {
   public init?(with cert: Swift.OpaquePointer?)
   @objc deinit
 }
+extension Swift.Array {
+  public func split(count: Swift.Int) -> [[Element]]
+}
 public enum DG15PublicKeyType {
   case rsa
   case ecdsa
@@ -105,6 +108,88 @@ public enum DG15PublicKeyType {
   public var hashValue: Swift.Int {
     get
   }
+}
+public enum JPNDriverLicenseError : Swift.Error, Swift.Equatable {
+  case needPIN
+  case incorrectPIN(Swift.Int)
+  case incorrectPINFormat
+  case UnexpectedError
+  case UserCanceled
+  case ConnectionError
+  case MoreThanOneTagFound
+  case ShouldReconnect
+  case NFCNotSupported
+  case TagNotValid
+  case invalidCertificate
+}
+extension AuthmeNFCKit.JPNDriverLicenseError : AuthmeNFCKit.NFCError {
+  public static func == (lhs: AuthmeNFCKit.JPNDriverLicenseError, rhs: AuthmeNFCKit.JPNDriverLicenseError) -> Swift.Bool
+  public static func didInvalidateWithError(_ error: any Swift.Error) -> AuthmeNFCKit.JPNDriverLicenseError
+  public static func didTagTimeoutError() -> AuthmeNFCKit.JPNDriverLicenseError
+  public static func didTagDisconnectError() -> AuthmeNFCKit.JPNDriverLicenseError
+  public static func didTagMoreThanOne() -> AuthmeNFCKit.JPNDriverLicenseError
+  public static func shouldReconnect() -> AuthmeNFCKit.JPNDriverLicenseError
+  public static func invalidCert() -> AuthmeNFCKit.JPNDriverLicenseError
+}
+public struct JPNDriverLicenseModel : AuthmeNFCKit.NFCDataable {
+  public struct CommonData {
+    public var specificationVersionNumber: Swift.String
+    public var issuanceDate: Foundation.Date
+    public var expirationDate: Foundation.Date
+    public var cardManufacturerIdentifier: Swift.UInt8
+    public var cryptographicFunctionIdentifier: Swift.UInt8
+  }
+  public var commonData: AuthmeNFCKit.JPNDriverLicenseModel.CommonData?
+  public struct PINSetting {
+    public var pinSetting: Swift.Bool
+  }
+  public var pinSetting: AuthmeNFCKit.JPNDriverLicenseModel.PINSetting?
+  public struct Matters {
+    public var jisX0208EstablishmentYearNumber: Swift.String
+    public var name: Swift.String
+    public var nickname: Swift.String
+    public var commonName: Swift.String?
+    public var uniformName: Swift.String
+    public var birthdate: Foundation.Date
+    public var address: Swift.String
+    public var issuanceDate: Foundation.Date
+    public var referenceNumber: Swift.String
+    public var color: Swift.String
+    public var expirationDate: Foundation.Date
+    public var condition1: Swift.String?
+    public var condition2: Swift.String?
+    public var condition3: Swift.String?
+    public var condition4: Swift.String?
+    public var issuingAuthority: Swift.String
+    public var number: Swift.String
+    public var motorcycleLicenceDate: Foundation.Date?
+    public var otherLicenceDate: Foundation.Date?
+    public var class2LicenceDate: Foundation.Date?
+    public var heavyVehicleLicenceDate: Foundation.Date?
+    public var ordinaryVehicleLicenceDate: Foundation.Date?
+    public var heavySpecialVehicleLicenceDate: Foundation.Date?
+    public var heavyMotorcycleLicenceDate: Foundation.Date?
+    public var ordinaryMotorcycleLicenceDate: Foundation.Date?
+    public var smallSpecialVehicleLicenceDate: Foundation.Date?
+    public var mopedLicenceDate: Foundation.Date?
+    public var trailerLicenceDate: Foundation.Date?
+    public var class2HeavyVehicleLicenceDate: Foundation.Date?
+    public var class2OrdinaryVehicleLicenceDate: Foundation.Date?
+    public var class2HeavySpecialVehicleLicenceDate: Foundation.Date?
+    public var class2TrailerLicenceDate: Foundation.Date?
+    public var mediumVehicleLicenceDate: Foundation.Date?
+    public var class2MediumVehicleLicenceDate: Foundation.Date?
+    public var semiMediumVehicleLicenceDate: Foundation.Date?
+  }
+  public var matters: AuthmeNFCKit.JPNDriverLicenseModel.Matters?
+  public struct RegisteredDomicile {
+    public var registeredDomicile: Swift.String
+  }
+  public var registeredDomicile: AuthmeNFCKit.JPNDriverLicenseModel.RegisteredDomicile?
+  public struct Photo {
+    public var photoData: Foundation.Data
+  }
+  public var photo: AuthmeNFCKit.JPNDriverLicenseModel.Photo?
 }
 public enum NFCReaderBasicError : Swift.Error {
   case invalidCertificateData
@@ -120,6 +205,86 @@ public enum NFCReaderBasicError : Swift.Error {
 @objc @_inheritsConvenienceInitializers public class BaseInitClass : ObjectiveC.NSObject {
   @objc override dynamic public init()
   @objc deinit
+}
+public struct NFCJPNResidentCardResult : AuthmeNFCKit.NFCFeatureable {
+  public typealias T = AuthmeNFCKit.JPNResidentCardModel
+  public typealias U = AuthmeNFCKit.JPNResidentCardError
+  public var data: AuthmeNFCKit.NFCJPNResidentCardResult.T?
+  public var error: AuthmeNFCKit.NFCJPNResidentCardResult.U?
+  public var message: Swift.String?
+  public static func connectToTag(_ tag: CoreNFC.NFCTag, session: CoreNFC.NFCTagReaderSession) -> AuthmeNFCKit.Publisher<AuthmeNFCKit.NFCJPNResidentCardResult>
+  public func releaseReader()
+}
+extension AuthmeNFCKit.AuthmeNFCReader where T == AuthmeNFCKit.NFCJPNResidentCardResult {
+  @discardableResult
+  public func read(cardNumber: Swift.String, items: [AuthmeNFCKit.JPNResidentCardItem]) -> Self
+}
+public enum JPNResidentCardType : Swift.String {
+  case residentCard
+  case permanentResidentCard
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct JPNResidentCardModel : AuthmeNFCKit.NFCDataable {
+  public var basicInfo: AuthmeNFCKit.JPNResidentCardBasicInfoModel {
+    get
+  }
+  public var visualInfo: AuthmeNFCKit.JPNResidentCardVisualInfoModel? {
+    get
+  }
+  public var address: AuthmeNFCKit.JPNResidentCardAddressModel? {
+    get
+  }
+  public var authenticationData: AuthmeNFCKit.JPNResidentCardAuthenticationModel? {
+    get
+  }
+}
+public struct JPNResidentCardBasicInfoModel {
+  public var version: Swift.String {
+    get
+  }
+  public var cardType: AuthmeNFCKit.JPNResidentCardType {
+    get
+  }
+}
+public struct JPNResidentCardVisualInfoModel {
+  public var cardImageWithoutAvatar: UIKit.UIImage? {
+    get
+  }
+  public var avatarImage: UIKit.UIImage? {
+    get
+  }
+}
+public struct JPNResidentCardAddressModel {
+  public var date: Swift.String {
+    get
+  }
+  public var zipCode: Swift.String {
+    get
+  }
+  public var address: Swift.String {
+    get
+  }
+  public var cardExternalAccessContent: Swift.String {
+    get
+  }
+  public var personalExternalAccessContent: Swift.String {
+    get
+  }
+  public var isCardReply: Swift.String {
+    get
+  }
+}
+public struct JPNResidentCardAuthenticationModel {
+  public var checkCodeData: [Swift.UInt8] {
+    get
+  }
+  public var publicKeyX509Data: [Swift.UInt8] {
+    get
+  }
 }
 public enum NFCPassportReaderError : Swift.Error {
   case ResponseError(Swift.String, Swift.UInt8, Swift.UInt8)
@@ -213,6 +378,43 @@ extension AuthmeNFCKit.NFCPassportReaderError : AuthmeNFCKit.NFCError {
   public static func didTagMoreThanOne() -> AuthmeNFCKit.NFCPassportReaderError
   public static func shouldReconnect() -> AuthmeNFCKit.NFCPassportReaderError
   public static func invalidCert() -> AuthmeNFCKit.NFCPassportReaderError
+}
+public enum JPNResidentCardError : Swift.Error, Swift.Equatable {
+  case UnexpectedError
+  case UserCanceled
+  case ConnectionError
+  case MoreThanOneTagFound
+  case ShouldReconnect
+  case NFCNotSupported
+  case TagNotValid
+  case invalidCertificate
+  case verifyFailed
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension AuthmeNFCKit.JPNResidentCardError : AuthmeNFCKit.NFCError {
+  public static func == (lhs: AuthmeNFCKit.JPNResidentCardError, rhs: AuthmeNFCKit.JPNResidentCardError) -> Swift.Bool
+  public static func didInvalidateWithError(_ error: any Swift.Error) -> AuthmeNFCKit.JPNResidentCardError
+  public static func didTagTimeoutError() -> AuthmeNFCKit.JPNResidentCardError
+  public static func didTagDisconnectError() -> AuthmeNFCKit.JPNResidentCardError
+  public static func didTagMoreThanOne() -> AuthmeNFCKit.JPNResidentCardError
+  public static func shouldReconnect() -> AuthmeNFCKit.JPNResidentCardError
+  public static func invalidCert() -> AuthmeNFCKit.JPNResidentCardError
+}
+public enum JPNResidentCardItem : Swift.CaseIterable {
+  case visualInfo
+  case address
+  public static func == (a: AuthmeNFCKit.JPNResidentCardItem, b: AuthmeNFCKit.JPNResidentCardItem) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public typealias AllCases = [AuthmeNFCKit.JPNResidentCardItem]
+  public static var allCases: [AuthmeNFCKit.JPNResidentCardItem] {
+    get
+  }
+  public var hashValue: Swift.Int {
+    get
+  }
 }
 public protocol NFCFeatureable {
   associatedtype T : AuthmeNFCKit.NFCDataable
@@ -472,6 +674,19 @@ public class NFCPassportModel {
   public func verifyActiveAuthentication(challenge: [Swift.UInt8], signature: [Swift.UInt8])
   @objc deinit
 }
+public struct NFCJPNDriverLicenseResult : AuthmeNFCKit.NFCFeatureable {
+  public typealias T = AuthmeNFCKit.JPNDriverLicenseModel
+  public typealias U = AuthmeNFCKit.JPNDriverLicenseError
+  public var data: AuthmeNFCKit.NFCJPNDriverLicenseResult.T?
+  public var error: AuthmeNFCKit.NFCJPNDriverLicenseResult.U?
+  public var message: Swift.String?
+  public static func connectToTag(_ tag: CoreNFC.NFCTag, session: CoreNFC.NFCTagReaderSession) -> AuthmeNFCKit.Publisher<AuthmeNFCKit.NFCJPNDriverLicenseResult>
+  public func releaseReader()
+}
+extension AuthmeNFCKit.AuthmeNFCReader where T == AuthmeNFCKit.NFCJPNDriverLicenseResult {
+  @discardableResult
+  public func read(pin1: Swift.String, pin2: Swift.String) -> Self
+}
 extension AuthmeNFCKit.AuthmeNFCCoreLanguage : Swift.Equatable {}
 extension AuthmeNFCKit.AuthmeNFCCoreLanguage : Swift.Hashable {}
 extension AuthmeNFCKit.DataGroupIdentifier : Swift.Equatable {}
@@ -482,5 +697,11 @@ extension AuthmeNFCKit.DG15PublicKeyType : Swift.Equatable {}
 extension AuthmeNFCKit.DG15PublicKeyType : Swift.Hashable {}
 extension AuthmeNFCKit.NFCReaderBasicError : Swift.Equatable {}
 extension AuthmeNFCKit.NFCReaderBasicError : Swift.Hashable {}
+extension AuthmeNFCKit.JPNResidentCardType : Swift.Equatable {}
+extension AuthmeNFCKit.JPNResidentCardType : Swift.Hashable {}
+extension AuthmeNFCKit.JPNResidentCardType : Swift.RawRepresentable {}
+extension AuthmeNFCKit.JPNResidentCardError : Swift.Hashable {}
+extension AuthmeNFCKit.JPNResidentCardItem : Swift.Equatable {}
+extension AuthmeNFCKit.JPNResidentCardItem : Swift.Hashable {}
 extension AuthmeNFCKit.PassportAuthenticationStatus : Swift.Equatable {}
 extension AuthmeNFCKit.PassportAuthenticationStatus : Swift.Hashable {}

@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		875B0oTw/YlZxNtJlB5VdDrazPA=
+		X0Bb0ymIxlAja+sCTojmN8Ch81A=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ovCUrkkhRiF6CjVNUof36g/0UlI=
+		M4WZuDuGvKkzGMc7l88EXU9PLRM=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9rKySjTRrKgCTPYwDEfqyy7Azl8=
+		rI5h/FFICeiS6EGdgymR1oWxaXc=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		j6cShYJDiwLkS7o0rqZmx6eD64E=
+		E/kEEJVspUMGidIqUi0TNorcuZk=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9rKySjTRrKgCTPYwDEfqyy7Azl8=
+		rI5h/FFICeiS6EGdgymR1oWxaXc=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vDr9GusuXkmg2/i05ZUOJWtAYjQ=
+		kk16gdTB4WdbU8X7nPyHtGD1wJE=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ovCUrkkhRiF6CjVNUof36g/0UlI=
+		M4WZuDuGvKkzGMc7l88EXU9PLRM=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xrQne52ycPWwM6Sfff3n46Ac6/s=
+		MsGoLesRSWULJSE2cb1e+EGhzuE=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		r1GDyJYoJ/Ua/qWdQeX7TRQhfPk=
+		66QuqFdAlDFNxNcLPaHm1r462S0=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xrQne52ycPWwM6Sfff3n46Ac6/s=
+		MsGoLesRSWULJSE2cb1e+EGhzuE=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		H81EJeIL5fefVujS7ydxIO6kkSs=
+		QwkEdgF922bCLX82h1MPk2zzc9U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,70 +112,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			na9dEsrfU2Dz1qHSkF5vaxQbPFc1eBBspVVLzyy3in8=
+			w1CDsX0TE3wUJiW2BeLmBIGu40FetlUJaPj+pR3c3+M=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y+iWADOsUOkS+/toEa1nPbxinPay8jUun3A/R9Np0lg=
+			pInZkB0vb/fNpU5d09YDG22hKw7qU8O+NujwTb9+k1E=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EaizVYk6sCVVK6FPpYLM1M4AgzRtorDaNZDNphKuztw=
+			qLoJAMDz9n4vIPvPWAZ/Rn/n9T1wgmFtUitcQ/hHhmM=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y+iWADOsUOkS+/toEa1nPbxinPay8jUun3A/R9Np0lg=
+			pInZkB0vb/fNpU5d09YDG22hKw7qU8O+NujwTb9+k1E=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vkprwOt0NlaZq3ZNjDjt0gwCKspl78MquQ3kCHVb2E4=
+			qMDySwQ5sCNyZEH4kPlCx/4cKfkrG7hOO1ifMVkSJPo=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			na9dEsrfU2Dz1qHSkF5vaxQbPFc1eBBspVVLzyy3in8=
+			w1CDsX0TE3wUJiW2BeLmBIGu40FetlUJaPj+pR3c3+M=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lRSMtM05aqPhowxebVCISe3VZ7HAYgxs0fgkNnFc+b8=
+			HAC4DbV2gEpxNLQ/FDJo1mNyWaQ7tyOXYrcomKe3Hr0=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			buYZVA2Qku8Bk2CVgiHXjHyi9eFoakiuF9ny9kRuREc=
+			PnKwkiYLeB9pBWUNK6SrqZpGwZahGQWeu+sqsjD7JMw=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lRSMtM05aqPhowxebVCISe3VZ7HAYgxs0fgkNnFc+b8=
+			HAC4DbV2gEpxNLQ/FDJo1mNyWaQ7tyOXYrcomKe3Hr0=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NCjtGBGyS5XZ7v/8FOu7/pAsnl1TQI/tdC7leQ4keW4=
+			ycNTUK465xnX7S57j3T+JkxwUl/6kws3dBBVsFUaGDM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
