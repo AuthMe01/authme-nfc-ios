@@ -238,9 +238,6 @@ public struct JPNResidentCardModel : AuthmeNFCKit.NFCDataable {
   public var address: AuthmeNFCKit.JPNResidentCardAddressModel? {
     get
   }
-  public var authenticationData: AuthmeNFCKit.JPNResidentCardAuthenticationModel? {
-    get
-  }
 }
 public struct JPNResidentCardBasicInfoModel {
   public var version: Swift.String {
@@ -274,7 +271,7 @@ public struct JPNResidentCardAddressModel {
   public var personalExternalAccessContent: Swift.String {
     get
   }
-  public var isCardReply: Swift.String {
+  public var isCardReply: Swift.Bool {
     get
   }
 }
@@ -405,7 +402,7 @@ extension AuthmeNFCKit.JPNResidentCardError : AuthmeNFCKit.NFCError {
 }
 public enum JPNResidentCardItem : Swift.CaseIterable {
   case visualInfo
-  case address
+  case additionalAddress
   public static func == (a: AuthmeNFCKit.JPNResidentCardItem, b: AuthmeNFCKit.JPNResidentCardItem) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public typealias AllCases = [AuthmeNFCKit.JPNResidentCardItem]
