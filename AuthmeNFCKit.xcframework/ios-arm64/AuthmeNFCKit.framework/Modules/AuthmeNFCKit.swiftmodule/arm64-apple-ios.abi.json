@@ -22781,140 +22781,140 @@
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 1251,
+      "offset": 1300,
       "length": 28,
       "value": "\"nfc.passport.scan.scanning\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 1439,
+      "offset": 1488,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 1558,
+      "offset": 1607,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 1571,
+      "offset": 1620,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 1584,
+      "offset": 1633,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 1615,
+      "offset": 1664,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 1650,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1667,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "StringLiteral",
-      "offset": 2207,
-      "length": 31,
-      "value": "\"nfc.passport.scan.chipReading\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "StringLiteral",
-      "offset": 2624,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "StringLiteral",
-      "offset": 2743,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "StringLiteral",
-      "offset": 2756,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "StringLiteral",
-      "offset": 2769,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "StringLiteral",
-      "offset": 2800,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
-      "kind": "StringLiteral",
-      "offset": 2835,
+      "offset": 1699,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 2852,
+      "offset": 1716,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 3050,
+      "offset": 2256,
       "length": 31,
       "value": "\"nfc.passport.scan.chipReading\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 3223,
+      "offset": 2673,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "StringLiteral",
+      "offset": 2792,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "StringLiteral",
+      "offset": 2805,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "StringLiteral",
+      "offset": 2818,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "StringLiteral",
+      "offset": 2849,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "StringLiteral",
+      "offset": 2884,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2901,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "StringLiteral",
+      "offset": 3099,
+      "length": 31,
+      "value": "\"nfc.passport.scan.chipReading\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
+      "kind": "StringLiteral",
+      "offset": 3272,
       "length": 32,
       "value": "\"nfc.passport.scan.otherReading\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 3658,
+      "offset": 3707,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader.swift",
       "kind": "StringLiteral",
-      "offset": 5961,
+      "offset": 6010,
       "length": 31,
       "value": "\"nfc.passport.scan.scanSuccess\""
     },
@@ -29977,693 +29977,714 @@
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 9679,
+      "offset": 9600,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 9655,
+      "length": 6,
+      "value": "\"(25)\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 9716,
+      "length": 12,
+      "value": "\"yyyy-MM-dd\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 10056,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 9731,
+      "offset": 10108,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 9783,
+      "offset": 10160,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 9945,
+      "offset": 10322,
       "length": 4,
       "value": "0x82"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 9964,
+      "offset": 10341,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "Array",
-      "offset": 9976,
+      "offset": 10353,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 9988,
+      "offset": 10365,
       "length": 5,
       "value": "65536"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10041,
+      "offset": 10418,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10141,
+      "offset": 10518,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10196,
+      "offset": 10573,
       "length": 6,
       "value": "\"(26)\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10569,
+      "offset": 10946,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10624,
+      "offset": 11001,
       "length": 6,
       "value": "\"(27)\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10839,
+      "offset": 11216,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10938,
+      "offset": 11315,
       "length": 4,
       "value": "0x83"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10957,
+      "offset": 11334,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "Array",
-      "offset": 10969,
+      "offset": 11346,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10981,
+      "offset": 11358,
       "length": 5,
       "value": "65536"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 11034,
+      "offset": 11411,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 11134,
+      "offset": 11511,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 11189,
+      "offset": 11566,
       "length": 6,
       "value": "\"(28)\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 11566,
+      "offset": 11943,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 11621,
+      "offset": 11998,
       "length": 6,
       "value": "\"(29)\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 11848,
+      "offset": 12225,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 11947,
+      "offset": 12324,
       "length": 4,
       "value": "0x84"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 11966,
+      "offset": 12343,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "Array",
-      "offset": 11978,
+      "offset": 12355,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 11990,
+      "offset": 12367,
       "length": 5,
       "value": "65536"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 12043,
+      "offset": 12420,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 12143,
+      "offset": 12520,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 12198,
+      "offset": 12575,
       "length": 6,
       "value": "\"(30)\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 12557,
+      "offset": 12934,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 12612,
+      "offset": 12989,
       "length": 6,
       "value": "\"(31)\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 12681,
+      "offset": 13058,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 12687,
+      "offset": 13064,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 12695,
+      "offset": 13072,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 15084,
+      "offset": 15461,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 15620,
+      "offset": 15997,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 15645,
+      "offset": 16022,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 15698,
+      "offset": 16075,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 15734,
+      "offset": 16111,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 15759,
+      "offset": 16136,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 15827,
+      "offset": 16204,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 16092,
+      "offset": 16469,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 16121,
+      "offset": 16498,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "Array",
-      "offset": 16209,
+      "offset": 16586,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 16826,
+      "offset": 17203,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 16855,
+      "offset": 17232,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 16913,
+      "offset": 17290,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 16953,
+      "offset": 17330,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 16982,
+      "offset": 17359,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17055,
+      "offset": 17432,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17115,
+      "offset": 17492,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17121,
+      "offset": 17498,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17180,
+      "offset": 17557,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17187,
+      "offset": 17564,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17277,
+      "offset": 17654,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17303,
+      "offset": 17680,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17351,
+      "offset": 17728,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17384,
+      "offset": 17761,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17558,
+      "offset": 17935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17591,
+      "offset": 17968,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17744,
+      "offset": 18121,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17777,
+      "offset": 18154,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 17840,
+      "offset": 18217,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17882,
+      "offset": 18259,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 17915,
+      "offset": 18292,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18001,
+      "offset": 18378,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18008,
+      "offset": 18385,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18077,
+      "offset": 18454,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18083,
+      "offset": 18460,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18151,
+      "offset": 18528,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18157,
+      "offset": 18534,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 18269,
+      "offset": 18646,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 18302,
+      "offset": 18679,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "Array",
-      "offset": 18541,
+      "offset": 18918,
       "length": 24,
       "value": "[0x00, 0x00, 0x00, 0x01]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18729,
+      "offset": 19106,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 18771,
+      "offset": 19148,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 18804,
+      "offset": 19181,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18876,
+      "offset": 19253,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18882,
+      "offset": 19259,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 18988,
+      "offset": 19365,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "Array",
-      "offset": 19229,
+      "offset": 19606,
       "length": 24,
       "value": "[0x80, 0x00, 0x00, 0x00]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 19477,
+      "offset": 19854,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 19510,
+      "offset": 19887,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "Array",
-      "offset": 19584,
+      "offset": 19961,
       "length": 18,
       "value": "[0x86, 0x11, 0x01]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 19868,
+      "offset": 20245,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 19901,
+      "offset": 20278,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 19965,
+      "offset": 20342,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20009,
+      "offset": 20386,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20042,
+      "offset": 20419,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20099,
+      "offset": 20476,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20127,
+      "offset": 20504,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20186,
+      "offset": 20563,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20215,
+      "offset": 20592,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20281,
+      "offset": 20658,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "BooleanLiteral",
-      "offset": 20306,
+      "offset": 20683,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 20603,
+      "offset": 20980,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 20653,
+      "offset": 21030,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 20763,
+      "offset": 21140,
       "length": 2,
       "value": "16"
     },
@@ -36046,98 +36067,98 @@
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "Array",
-      "offset": 302,
+      "offset": 351,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "Array",
-      "offset": 360,
+      "offset": 409,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 593,
+      "offset": 642,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 1676,
+      "offset": 1725,
       "length": 28,
       "value": "\"nfc.passport.scan.scanning\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 2491,
+      "offset": 2540,
       "length": 48,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.scanSuccess.step1\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 2687,
+      "offset": 2736,
       "length": 48,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.scanSuccess.step2\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 2878,
+      "offset": 2927,
       "length": 48,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.scanSuccess.step3\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 3565,
+      "offset": 3614,
       "length": 31,
       "value": "\"nfc.passport.scan.scanSuccess\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 3728,
+      "offset": 3777,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "StringLiteral",
-      "offset": 3862,
+      "offset": 3911,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 5382,
+      "offset": 5431,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 5637,
+      "offset": 5686,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 5908,
+      "offset": 5957,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReader.swift",
       "kind": "BooleanLiteral",
-      "offset": 5954,
+      "offset": 6003,
       "length": 4,
       "value": "true"
     },
@@ -38313,869 +38334,890 @@
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 6198,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 6253,
+      "length": 5,
+      "value": "\"(1)\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 6305,
+      "length": 12,
+      "value": "\"yyyy-MM-dd\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 6087,
+      "offset": 6479,
       "length": 2,
       "value": "37"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6238,
+      "offset": 6630,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6266,
+      "offset": 6658,
       "length": 6,
       "value": "\"male\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6290,
+      "offset": 6682,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6318,
+      "offset": 6710,
       "length": 8,
       "value": "\"female\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6345,
+      "offset": 6737,
       "length": 3,
       "value": "\"9\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6373,
+      "offset": 6765,
       "length": 14,
       "value": "\"inapplicable\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6432,
+      "offset": 6824,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 6571,
+      "offset": 6963,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 7378,
+      "offset": 7789,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7472,
+      "offset": 7883,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 7576,
+      "offset": 7987,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "Array",
-      "offset": 7697,
+      "offset": 8108,
       "length": 12,
       "value": "[0x00, 0x13]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 7864,
+      "offset": 8275,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7958,
+      "offset": 8369,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 8062,
+      "offset": 8473,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 8360,
+      "offset": 8771,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8460,
+      "offset": 8871,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8506,
+      "offset": 8917,
       "length": 4,
       "value": "0x63"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8583,
+      "offset": 8994,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8653,
+      "offset": 9064,
       "length": 4,
       "value": "0xC0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8701,
+      "offset": 9112,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8725,
+      "offset": 9136,
       "length": 4,
       "value": "0xC1"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8773,
+      "offset": 9184,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8797,
+      "offset": 9208,
       "length": 4,
       "value": "0xC2"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8845,
+      "offset": 9256,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8869,
+      "offset": 9280,
       "length": 4,
       "value": "0xC3"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8917,
+      "offset": 9328,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8941,
+      "offset": 9352,
       "length": 4,
       "value": "0xC4"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8989,
+      "offset": 9400,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 9013,
+      "offset": 9424,
       "length": 4,
       "value": "0xC5"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 9061,
+      "offset": 9472,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 9176,
+      "offset": 9587,
       "length": 4,
       "value": "0xC0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 9277,
+      "offset": 9688,
       "length": 50,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.passwordWrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 9447,
+      "offset": 9858,
       "length": 49,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.passwordLock\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 9619,
+      "offset": 10030,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "Array",
-      "offset": 9741,
+      "offset": 10152,
       "length": 12,
       "value": "[0x00, 0x02]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 9909,
+      "offset": 10320,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10004,
+      "offset": 10415,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10108,
+      "offset": 10519,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10250,
+      "offset": 10661,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10269,
+      "offset": 10680,
       "length": 4,
       "value": "0x02"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10299,
+      "offset": 10710,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10467,
+      "offset": 10878,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10572,
+      "offset": 10983,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 10676,
+      "offset": 11087,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10810,
+      "offset": 11221,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10829,
+      "offset": 11240,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10859,
+      "offset": 11270,
       "length": 5,
       "value": "65536"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 11024,
+      "offset": 11435,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 11122,
+      "offset": 11533,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 11226,
+      "offset": 11637,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 13055,
+      "offset": 13466,
       "length": 2,
       "value": "39"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 13224,
+      "offset": 13635,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 13889,
+      "offset": 14300,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 13987,
+      "offset": 14398,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 14091,
+      "offset": 14502,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "Array",
-      "offset": 14212,
+      "offset": 14623,
       "length": 12,
       "value": "[0x00, 0x06]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 14379,
+      "offset": 14790,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 14473,
+      "offset": 14884,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 14577,
+      "offset": 14988,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 14711,
+      "offset": 15122,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 14730,
+      "offset": 15141,
       "length": 4,
       "value": "0x00"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 14760,
+      "offset": 15171,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 14921,
+      "offset": 15332,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 15019,
+      "offset": 15430,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 15123,
+      "offset": 15534,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 15279,
+      "offset": 15690,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 15354,
+      "offset": 15765,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 15772,
+      "offset": 16183,
       "length": 50,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.passwordWrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 16182,
+      "offset": 16593,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 16283,
+      "offset": 16694,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 16387,
+      "offset": 16798,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "Array",
-      "offset": 16513,
+      "offset": 16924,
       "length": 12,
       "value": "[0x00, 0x11]"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 16685,
+      "offset": 17096,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 16784,
+      "offset": 17195,
       "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 16888,
+      "offset": 17299,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 17201,
+      "offset": 17612,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17302,
-      "length": 4,
-      "value": "0x90"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17349,
-      "length": 4,
-      "value": "0x63"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17426,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17497,
-      "length": 4,
-      "value": "0xC0"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17545,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17569,
-      "length": 4,
-      "value": "0xC1"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17617,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17641,
-      "length": 4,
-      "value": "0xC2"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17689,
-      "length": 1,
-      "value": "2"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
       "offset": 17713,
       "length": 4,
-      "value": "0xC3"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17761,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17785,
-      "length": 4,
-      "value": "0xC4"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17833,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17857,
-      "length": 4,
-      "value": "0xC5"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17905,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18021,
-      "length": 4,
-      "value": "0xC0"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 18122,
-      "length": 50,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.passwordWrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 18292,
-      "length": 49,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.passwordLock\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 18464,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "Array",
-      "offset": 18593,
-      "length": 12,
-      "value": "[0x00, 0x01]"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 18768,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18870,
-      "length": 4,
       "value": "0x90"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 18974,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 19116,
-      "length": 4,
-      "value": "0x00"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19135,
-      "length": 4,
-      "value": "0x00"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19165,
-      "length": 2,
-      "value": "17"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 19334,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19440,
-      "length": 4,
-      "value": "0x90"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 19544,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 19965,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "Array",
-      "offset": 20606,
-      "length": 12,
-      "value": "[0x00, 0x1B]"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "Array",
-      "offset": 20726,
-      "length": 12,
-      "value": "[0x00, 0x18]"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "Array",
-      "offset": 20864,
-      "length": 12,
-      "value": "[0x00, 0x11]"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "Array",
-      "offset": 20994,
-      "length": 12,
-      "value": "[0x00, 0x1C]"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 21265,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21374,
-      "length": 4,
-      "value": "0x90"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 21478,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 21794,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21905,
-      "length": 4,
-      "value": "0x90"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 22009,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "Array",
-      "offset": 22131,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "StringLiteral",
-      "offset": 22292,
-      "length": 42,
-      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
-    },
-    {
-      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 22390,
+      "offset": 17760,
       "length": 4,
       "value": "0x63"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "IntegerLiteral",
-      "offset": 22446,
+      "offset": 17837,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17908,
       "length": 4,
-      "value": "0x0F"
+      "value": "0xC0"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17956,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17980,
+      "length": 4,
+      "value": "0xC1"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18028,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18052,
+      "length": 4,
+      "value": "0xC2"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18100,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18124,
+      "length": 4,
+      "value": "0xC3"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18172,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18196,
+      "length": 4,
+      "value": "0xC4"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18244,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18268,
+      "length": 4,
+      "value": "0xC5"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18316,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18432,
+      "length": 4,
+      "value": "0xC0"
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 22566,
+      "offset": 18533,
+      "length": 50,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.passwordWrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 18703,
+      "length": 49,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.passwordLock\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 18875,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "Array",
+      "offset": 19004,
+      "length": 12,
+      "value": "[0x00, 0x01]"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 19179,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19281,
+      "length": 4,
+      "value": "0x90"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 19385,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19527,
+      "length": 4,
+      "value": "0x00"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19546,
+      "length": 4,
+      "value": "0x00"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19576,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 19745,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19851,
+      "length": 4,
+      "value": "0x90"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 19955,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },
     {
       "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
       "kind": "StringLiteral",
-      "offset": 22775,
+      "offset": 20376,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "Array",
+      "offset": 21017,
+      "length": 12,
+      "value": "[0x00, 0x1B]"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "Array",
+      "offset": 21137,
+      "length": 12,
+      "value": "[0x00, 0x18]"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "Array",
+      "offset": 21275,
+      "length": 12,
+      "value": "[0x00, 0x11]"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "Array",
+      "offset": 21405,
+      "length": 12,
+      "value": "[0x00, 0x1C]"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 21676,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21785,
+      "length": 4,
+      "value": "0x90"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 21889,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 22205,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22316,
+      "length": 4,
+      "value": "0x90"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 22420,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "Array",
+      "offset": 22542,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 22703,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22801,
+      "length": 4,
+      "value": "0x63"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22857,
+      "length": 4,
+      "value": "0x0F"
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 22977,
+      "length": 42,
+      "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
+    },
+    {
+      "filePath": "\/Users\/evanwu\/WunderArk_iOS\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/IndividualNumberCard\/Reader+Parser\/JPNIndividualNumberReaderActions.swift",
+      "kind": "StringLiteral",
+      "offset": 23186,
       "length": 42,
       "value": "\"sdk.ocr.nfcMyNumberCard.scan.error.wrong\""
     },

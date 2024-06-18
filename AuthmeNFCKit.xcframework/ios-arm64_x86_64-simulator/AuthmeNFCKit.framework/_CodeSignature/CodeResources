@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kHpO7+EN3WZo4ZGgtSJG/fWNwno=
+		XFQCMgEa0pZOHS+akDuefYnzR9k=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		3zadHsMtsS/htc//VPLSpTbe+aI=
+		GrDVMZ9yNLxvhQ86HzZs1FKNLW4=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mtANq1CnfpKwwzmN+QMJJBLTj6I=
+		5hsUCqkq9Qq1R0Uu4NxugReEg9w=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3zadHsMtsS/htc//VPLSpTbe+aI=
+		GrDVMZ9yNLxvhQ86HzZs1FKNLW4=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kVEX/ufBoFVUYGwyrGyEPVw507c=
+		10M6yLXByh2QlW+A0YdUqfZAp74=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NPoDWerAhN+7QzIGb45zHX5CjBV/7sPN9FeXJHHwCC0=
+			YxcdTNmwf+fkXPA6+m7lmND88InCSSz1GseHZ93UiF0=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -140,14 +140,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W9yLkGfmDTyOq0IsA5BRe6WgNEKxyZ/xkfkAYLouvTk=
+			d+jEm8PKpg7KXixoy74KkCeINp8y50rCrlPnCBWVQC8=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NPoDWerAhN+7QzIGb45zHX5CjBV/7sPN9FeXJHHwCC0=
+			YxcdTNmwf+fkXPA6+m7lmND88InCSSz1GseHZ93UiF0=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PwRuSSbkMjtErWs8CQeOKJQ/Q623/3HuEhI6x/NhH6o=
+			jxM+niqCiUJrrjoSti5J6twEAHYAmUHI4CW01Gt751k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
