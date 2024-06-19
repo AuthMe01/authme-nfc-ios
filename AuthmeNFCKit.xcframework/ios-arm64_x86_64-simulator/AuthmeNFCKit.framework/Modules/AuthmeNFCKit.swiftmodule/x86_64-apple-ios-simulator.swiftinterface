@@ -147,7 +147,7 @@ public struct JPNDriverLicenseModel : AuthmeNFCKit.NFCDataable {
   public struct Matters {
     public var jisX0208EstablishmentYearNumber: Swift.String
     public var name: Swift.String
-    public var nickname: Swift.String
+    public var kanaName: Swift.String
     public var commonName: Swift.String?
     public var uniformName: Swift.String
     public var birthdate: Foundation.Date

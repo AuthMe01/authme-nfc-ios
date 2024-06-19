@@ -4249,8 +4249,8 @@
               },
               {
                 "kind": "Var",
-                "name": "nickname",
-                "printedName": "nickname",
+                "name": "kanaName",
+                "printedName": "kanaName",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -4260,8 +4260,8 @@
                   }
                 ],
                 "declKind": "Var",
-                "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvp",
-                "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvp",
+                "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvp",
+                "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvp",
                 "moduleName": "AuthmeNFCKit",
                 "declAttributes": [
                   "HasStorage",
@@ -4283,8 +4283,8 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvg",
-                    "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvg",
+                    "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvg",
+                    "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvg",
                     "moduleName": "AuthmeNFCKit",
                     "implicit": true,
                     "accessorKind": "get"
@@ -4307,8 +4307,8 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvs",
-                    "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvs",
+                    "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvs",
+                    "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvs",
                     "moduleName": "AuthmeNFCKit",
                     "implicit": true,
                     "accessorKind": "set"
@@ -4325,8 +4325,8 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvM",
-                    "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8nicknameSSvM",
+                    "usr": "s:12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvM",
+                    "mangledName": "$s12AuthmeNFCKit21JPNDriverLicenseModelV7MattersV8kanaNameSSvM",
                     "moduleName": "AuthmeNFCKit",
                     "implicit": true,
                     "accessorKind": "_modify"
