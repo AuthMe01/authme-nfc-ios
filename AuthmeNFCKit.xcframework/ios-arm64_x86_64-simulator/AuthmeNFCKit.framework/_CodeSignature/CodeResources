@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7gEcvyGgDw38o9o3Xb+TMhs3/+E=
+		QIY9WvNJ6MmzmxPLwVqfnELWBKw=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		AqNBxWUyNA+12eEeuIEYSHZWx00=
+		FLVusSC4SJAilWnzvukTFtpsI4Y=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TYoxBkiq6RzIWHSP88XCJrk2iGw=
+		RyEoJlb2zFyYCYUw1LTfPkGmdTY=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AqNBxWUyNA+12eEeuIEYSHZWx00=
+		FLVusSC4SJAilWnzvukTFtpsI4Y=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		znxHqKVDTwFFzjjx+4G7BopmkWk=
+		cGQdgFlGHCTSXm/EnuePp2CFeJE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			caAQIjEiDIChXWouGyO48LLwM7oia0dQiWLEiTyyzkE=
+			463UyCVtsh6Jaw/610yvo5Uz0jFjdgNhr3NSGrTYAAg=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -140,14 +140,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wbu1VkyJHTf+hDnCFu6Jqde1mP494yRnT9NpbdPmKqc=
+			FJMXG97TpN2jUskjtfwC9MnULJspSOwcPZHsCOq1PZI=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			caAQIjEiDIChXWouGyO48LLwM7oia0dQiWLEiTyyzkE=
+			463UyCVtsh6Jaw/610yvo5Uz0jFjdgNhr3NSGrTYAAg=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zBaEbm0DjTLfP//j2kumvsaXAsd0sYZ8mb42y4a407s=
+			VYshAqW+w5dxRroLVhR+XBxBMSQOYrhA7BpoE2hcZRs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
