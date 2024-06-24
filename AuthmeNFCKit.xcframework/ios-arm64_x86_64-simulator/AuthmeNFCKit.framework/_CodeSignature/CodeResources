@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QIY9WvNJ6MmzmxPLwVqfnELWBKw=
+		xf904kkiF3FTCq6C/ed4OEh5m0Q=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FLVusSC4SJAilWnzvukTFtpsI4Y=
+		P1d9zMBZ/JYSLkd32ApJgEiGZIM=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RyEoJlb2zFyYCYUw1LTfPkGmdTY=
+		4tdRMO4Z/PUGNDs4OS5oNEAQfWk=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FLVusSC4SJAilWnzvukTFtpsI4Y=
+		P1d9zMBZ/JYSLkd32ApJgEiGZIM=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cGQdgFlGHCTSXm/EnuePp2CFeJE=
+		QG8IVusXs2IU6Qb/c3EuSEV4jz8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			463UyCVtsh6Jaw/610yvo5Uz0jFjdgNhr3NSGrTYAAg=
+			biOeV6Xso/Mvic/+AeMOZV/c129CBOk2BuuWbM2tm4s=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -140,14 +140,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FJMXG97TpN2jUskjtfwC9MnULJspSOwcPZHsCOq1PZI=
+			jj4hDK1MOr4GnOEVr+PK5p4o87j83q6w9+xEfkIMxo4=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			463UyCVtsh6Jaw/610yvo5Uz0jFjdgNhr3NSGrTYAAg=
+			biOeV6Xso/Mvic/+AeMOZV/c129CBOk2BuuWbM2tm4s=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VYshAqW+w5dxRroLVhR+XBxBMSQOYrhA7BpoE2hcZRs=
+			SNpRs1BabUriUNLROh1W+z4OayjC9oSKj5lriZbr3CI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
