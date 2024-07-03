@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MRamFzDrQweLQ0se7I9J2MeusBo=
+		nJwnNFbsRHoPogTrZXQIIBn4UKE=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		b329V9KHn4LXFTSuubZ19LUoUPo=
+		V+YT8NV8EDSVKabM2t0o5DIWvTg=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		b329V9KHn4LXFTSuubZ19LUoUPo=
+		V+YT8NV8EDSVKabM2t0o5DIWvTg=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XeXNLE252TiAgwBWWCHMF+LEpcDNxqbjqlWcOnEQWuA=
+			mAQv9gbRay+76qDu+j6nDay+GBQWk6oiHmhA7A/u4CQ=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XeXNLE252TiAgwBWWCHMF+LEpcDNxqbjqlWcOnEQWuA=
+			mAQv9gbRay+76qDu+j6nDay+GBQWk6oiHmhA7A/u4CQ=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
