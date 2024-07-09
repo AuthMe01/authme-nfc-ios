@@ -455,6 +455,9 @@ public struct JPNIndividualNumberCardModel : AuthmeNFCKit.NFCDataable {
   public var visualInfo: UIKit.UIImage? {
     get
   }
+  public var expiryDate: Swift.String? {
+    get
+  }
 }
 public struct JPNIndividualNumberCardBasicAttributesModel {
   public var name: Swift.String {
