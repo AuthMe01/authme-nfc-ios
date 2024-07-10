@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BfMXCIMeKxUlHNa9FEkh0fwS45Y=
+		NA/+mbQ/Re/uJT5zBd/D+KfSHZ4=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vIMBzfFQfCONahRjACkL9FeW8y4=
+		W+PC9QlJwjIFkEKNmzLi8/vTpCc=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		od8wqSDhgo5iIEaTkfxZ6r6p8co=
+		J3ydrPs838q09kJ1yFV3Vk6DbYs=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		vIMBzfFQfCONahRjACkL9FeW8y4=
+		W+PC9QlJwjIFkEKNmzLi8/vTpCc=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fWIJ+k+bi9hGGjeIvXh/pQGrskw=
+		0WzuVoLfSuySm3/UF6AHcRjTIVM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d77M5M8Ql83J1lTgJR4F4y3CJ4ApE9VvU5pA8nnfmns=
+			GEd0qK8xNPnsi9y05KW0siiwNjBPCjiBK53RCjdscuE=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -140,14 +140,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eYZ4ULFodmdSCSmSo7d+n03v1TUr88fxl2ZjRN5zM0s=
+			D0STPwse35gpGqPgMnsNJyTFmpHVvz1qedJVc97h9/k=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d77M5M8Ql83J1lTgJR4F4y3CJ4ApE9VvU5pA8nnfmns=
+			GEd0qK8xNPnsi9y05KW0siiwNjBPCjiBK53RCjdscuE=
 			</data>
 		</dict>
 		<key>Modules/AuthmeNFCKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOQLIpMXgC3SVywxGnw9LDSnAFyVVerWRNSnUnnb+q4=
+			ddbgqT6NeUi8dnZHelD/OZUTqzYUw0EGsTA7Z7AMZ8s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
