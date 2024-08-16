@@ -162,24 +162,24 @@ public struct JPNDriverLicenseModel : AuthmeNFCKit.NFCDataable {
     public var condition4: Swift.String?
     public var issuingAuthority: Swift.String
     public var number: Swift.String
-    public var motorcycleLicenceDate: Foundation.Date?
-    public var otherLicenceDate: Foundation.Date?
-    public var class2LicenceDate: Foundation.Date?
-    public var heavyVehicleLicenceDate: Foundation.Date?
-    public var ordinaryVehicleLicenceDate: Foundation.Date?
-    public var heavySpecialVehicleLicenceDate: Foundation.Date?
-    public var heavyMotorcycleLicenceDate: Foundation.Date?
-    public var ordinaryMotorcycleLicenceDate: Foundation.Date?
-    public var smallSpecialVehicleLicenceDate: Foundation.Date?
-    public var mopedLicenceDate: Foundation.Date?
-    public var trailerLicenceDate: Foundation.Date?
-    public var class2HeavyVehicleLicenceDate: Foundation.Date?
-    public var class2OrdinaryVehicleLicenceDate: Foundation.Date?
-    public var class2HeavySpecialVehicleLicenceDate: Foundation.Date?
-    public var class2TrailerLicenceDate: Foundation.Date?
-    public var mediumVehicleLicenceDate: Foundation.Date?
-    public var class2MediumVehicleLicenceDate: Foundation.Date?
-    public var semiMediumVehicleLicenceDate: Foundation.Date?
+    public var motorcycleLicenseDate: Foundation.Date?
+    public var otherLicenseDate: Foundation.Date?
+    public var class2LicenseDate: Foundation.Date?
+    public var heavyVehicleLicenseDate: Foundation.Date?
+    public var ordinaryVehicleLicenseDate: Foundation.Date?
+    public var heavySpecialVehicleLicenseDate: Foundation.Date?
+    public var heavyMotorcycleLicenseDate: Foundation.Date?
+    public var ordinaryMotorcycleLicenseDate: Foundation.Date?
+    public var smallSpecialVehicleLicenseDate: Foundation.Date?
+    public var mopedLicenseDate: Foundation.Date?
+    public var trailerLicenseDate: Foundation.Date?
+    public var class2HeavyVehicleLicenseDate: Foundation.Date?
+    public var class2OrdinaryVehicleLicenseDate: Foundation.Date?
+    public var class2HeavySpecialVehicleLicenseDate: Foundation.Date?
+    public var class2TrailerLicenseDate: Foundation.Date?
+    public var mediumVehicleLicenseDate: Foundation.Date?
+    public var class2MediumVehicleLicenseDate: Foundation.Date?
+    public var semiMediumVehicleLicenseDate: Foundation.Date?
   }
   public var matters: AuthmeNFCKit.JPNDriverLicenseModel.Matters?
   public struct RegisteredDomicile {
