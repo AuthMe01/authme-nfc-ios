@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/AuthmeNFCKit.framework/AuthmeNFCKit</key>
 		<data>
-		ggVgqywtoYmt8aNzGt2vQ3zgYWQ=
+		WGjJKqlfJy0f+H3tSwKGtNLGB5A=
 		</data>
 		<key>ios-arm64/AuthmeNFCKit.framework/Headers/AuthmeNFCKit-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/AuthmeNFCKit.framework/Info.plist</key>
 		<data>
-		T1W42SkaEsoDD15OkdAjG416Oq8=
+		Ddrleg9uo3/XZmtHcXIZFNzLmSE=
 		</data>
 		<key>ios-arm64/AuthmeNFCKit.framework/Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/AuthmeNFCKit.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		L/caI0sXLDyZXvwdxZ0ClCC98f4=
+		mAFOiIO8imfj2V9wxkBFC8oopHE=
 		</data>
 		<key>ios-arm64/AuthmeNFCKit.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -73,7 +73,7 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/AuthmeNFCKit</key>
 		<data>
-		KgwkO3L1FHQxCfeQLE9mOBIWQ6Y=
+		FJgtP7qSjzziyluS+9B09duiJt0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/Headers/AuthmeNFCKit-Swift.h</key>
 		<data>
@@ -85,7 +85,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/Info.plist</key>
 		<data>
-		BUQ781O3oL5VdaumQZF4GlFclOQ=
+		gDWPGQk7RhfMKFsruKAxJUsP7y4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -125,11 +125,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		L/caI0sXLDyZXvwdxZ0ClCC98f4=
+		mAFOiIO8imfj2V9wxkBFC8oopHE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		N0p3f8833kUWohGY0Mwst2Hj7Kg=
+		5GlwCqFfoQFcI/3SAekMTEZ74vo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -165,11 +165,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ggVgqywtoYmt8aNzGt2vQ3zgYWQ=
+			WGjJKqlfJy0f+H3tSwKGtNLGB5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			YKXeY75mEU+U0AyVyvmWka+wm+AA4spbaeqXBzrcFEY=
+			YTQdRzsQkrzj/W1B8lzQRjvGEwSS9T9DmZtRZVe57M4=
 			</data>
 		</dict>
 		<key>ios-arm64/AuthmeNFCKit.framework/Headers/AuthmeNFCKit-Swift.h</key>
@@ -198,11 +198,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T1W42SkaEsoDD15OkdAjG416Oq8=
+			Ddrleg9uo3/XZmtHcXIZFNzLmSE=
 			</data>
 			<key>hash2</key>
 			<data>
-			U+uLitnYDD+yDualm3RdentVnhyeRaaqrXt+WccvDpo=
+			Mr9dnCzCOtPPvZk+tlDoBR52w9dQGYgdG+IO9rug+sE=
 			</data>
 		</dict>
 		<key>ios-arm64/AuthmeNFCKit.framework/Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -264,11 +264,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L/caI0sXLDyZXvwdxZ0ClCC98f4=
+			mAFOiIO8imfj2V9wxkBFC8oopHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			SrLScyA1uzf/epzyx/39ZB0gT8YWl8ALezXoG4NIiaw=
+			v/3yoAoPRQQVIW3S0Htx9UOGjwFK5CPDkAPWeesBJfQ=
 			</data>
 		</dict>
 		<key>ios-arm64/AuthmeNFCKit.framework/en.lproj/Localizable.strings</key>
@@ -314,11 +314,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KgwkO3L1FHQxCfeQLE9mOBIWQ6Y=
+			FJgtP7qSjzziyluS+9B09duiJt0=
 			</data>
 			<key>hash2</key>
 			<data>
-			roZf9rJ39pI9mnJpTlVzf7Qm1YMsy5ZCnVQtFYP5UGs=
+			gfIiXnNqyelXnGC9GOhjadIQTC+MZZwj9eTQIC2rNGE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/Headers/AuthmeNFCKit-Swift.h</key>
@@ -347,11 +347,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BUQ781O3oL5VdaumQZF4GlFclOQ=
+			gDWPGQk7RhfMKFsruKAxJUsP7y4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q6IK0kqek505yUBlmDHzzs0yk6C4e3fD2klSdzZXr2w=
+			qySNlS3pD5gJIFCOuD3g9WJ/7Uc4Mvza2Zgiv/5vmgE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -457,22 +457,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L/caI0sXLDyZXvwdxZ0ClCC98f4=
+			mAFOiIO8imfj2V9wxkBFC8oopHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			SrLScyA1uzf/epzyx/39ZB0gT8YWl8ALezXoG4NIiaw=
+			v/3yoAoPRQQVIW3S0Htx9UOGjwFK5CPDkAPWeesBJfQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N0p3f8833kUWohGY0Mwst2Hj7Kg=
+			5GlwCqFfoQFcI/3SAekMTEZ74vo=
 			</data>
 			<key>hash2</key>
 			<data>
-			G6Ehpwksj2Fchs2nwSyMG6B0Y1lZeqJ5qujS6T8npTc=
+			XrNjZ0ytQRa1s5wgxRGn5ByO30G2dWXG4lbqL0ZLPMQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AuthmeNFCKit.framework/en.lproj/Localizable.strings</key>
