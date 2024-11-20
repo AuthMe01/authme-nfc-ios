@@ -9,7 +9,6 @@ import CoreNFC
 import CryptoKit
 import CryptoTokenKit
 import Foundation
-import OpenSSL
 import Security
 import Swift
 import UIKit
