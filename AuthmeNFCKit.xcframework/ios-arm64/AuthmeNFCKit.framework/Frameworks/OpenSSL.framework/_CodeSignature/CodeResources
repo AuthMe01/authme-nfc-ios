@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Info.plist</key>
-		<data>
-		2ueNBhgzTm1cY+XT9wnJaRePqHY=
-		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
 		AL1dh5ctObXBjoBiabSJ86M3HQs=
@@ -17,6 +13,10 @@
 	<dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AL1dh5ctObXBjoBiabSJ86M3HQs=
+			</data>
 			<key>hash2</key>
 			<data>
 			WpuPwM3bECAbtHzCgEs/AExyUUdmItJb/E61TtRuEIQ=
