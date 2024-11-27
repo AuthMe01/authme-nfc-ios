@@ -4,22 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<data>
-		W4BLTADZ6368TLupmi//o6JSr5I=
-		</data>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<data>
-		aeRTReDA8dV+ZeTjZwgKK21veac=
-		</data>
-		<key>Frameworks/OpenSSL.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		AL1dh5ctObXBjoBiabSJ86M3HQs=
-		</data>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<data>
-		TYaSvfUw/ClJwPAFaxPoWYXmUoo=
-		</data>
 		<key>Headers/AuthmeNFCKit-Swift.h</key>
 		<data>
 		6BWN+39YKk5NW7SM/hBPE1fJCEU=
@@ -30,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WdkAWiadxZSrKMsdAo/ZZhGNd34=
+		L+ORVefoC6Rwvd2HnSw1+bCqGZ0=
 		</data>
 		<key>Modules/AuthmeNFCKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -110,34 +94,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fpKKZqydNifHqRK49TqlERVDJvTtRq6PtcF5msJHvnw=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eWB6Vk5bEZfiMFlHpM2I95ql08O6Mx+VaAiOxVcn8ZI=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WpuPwM3bECAbtHzCgEs/AExyUUdmItJb/E61TtRuEIQ=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JmFXf2uQ7+tQNb0qdck+hYXO7KQ8e6L3cFPnYtUgHw8=
-			</data>
-		</dict>
 		<key>Headers/AuthmeNFCKit-Swift.h</key>
 		<dict>
 			<key>hash2</key>
