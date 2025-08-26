@@ -44337,8 +44337,8 @@
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/Utilities\/LocalizeHelper.swift",
       "kind": "StringLiteral",
       "offset": 519,
-      "length": 28,
-      "value": "\"LOCALIZED_STRING_NOT_FOUND\""
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/JPN\/ResidentCard\/Reader+Parser\/JPNResidentCardReader+Parser.swift",
@@ -47332,196 +47332,140 @@
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 664,
+      "offset": 583,
       "length": 30,
       "value": "\"nfc.passport.scan.searchChip\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "StringLiteral",
-      "offset": 928,
-      "length": 19,
-      "value": "\"~~~~~~~~~~~~~~~~~\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "IntegerLiteral",
-      "offset": 999,
+      "offset": 780,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 1257,
+      "offset": 1027,
       "length": 28,
       "value": "\"nfc.passport.scan.scanning\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 1912,
+      "offset": 1483,
       "length": 28,
       "value": "\"nfc.passport.scan.scanFail\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2113,
+      "offset": 1655,
       "length": 28,
       "value": "\"nfc.passport.scan.scanFail\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2291,
+      "offset": 1813,
       "length": 28,
       "value": "\"nfc.passport.scan.scanFail\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2468,
+      "offset": 1988,
       "length": 34,
       "value": "\"nfc.passport.error.notMatch.text\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2735,
+      "offset": 2236,
       "length": 28,
       "value": "\"nfc.passport.scan.scanFail\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2907,
+      "offset": 2319,
       "length": 28,
       "value": "\"nfc.passport.scan.scanFail\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3055,
+      "offset": 2421,
       "length": 31,
       "value": "\"nfc.passport.scan.scanSuccess\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3206,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3247,
-      "length": 7,
-      "value": "\"🟢 \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "StringLiteral",
-      "offset": 3304,
-      "length": 9,
-      "value": "\"⚪️ \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3322,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "StringLiteral",
-      "offset": 3342,
-      "length": 17,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "StringLiteral",
-      "offset": 3350,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "StringLiteral",
-      "offset": 3358,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
-      "kind": "StringLiteral",
-      "offset": 3476,
+      "offset": 2589,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3508,
+      "offset": 2645,
       "length": 31,
       "value": "\"nfc.passport.scan.chipReading\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3687,
+      "offset": 2808,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3719,
+      "offset": 2862,
       "length": 34,
       "value": "\"nfc.passport.scan.pictureReading\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3841,
+      "offset": 2974,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3873,
+      "offset": 3034,
       "length": 32,
       "value": "\"nfc.passport.scan.otherReading\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3968,
+      "offset": 3113,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4005,
+      "offset": 3150,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4012,
+      "offset": 3157,
       "length": 3,
       "value": "\"...(\""
     },
     {
       "filePath": "\/Users\/runner\/work\/nfc-sdk-ios\/nfc-sdk-ios\/AuthmeNFCKit\/NFCReader\/NFCPassportReader\/NFCViewDisplayMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4024,
+      "offset": 3169,
       "length": 1,
       "value": "\"\/3)\""
     }
